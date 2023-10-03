@@ -1,0 +1,16 @@
+{
+    "timer": {
+        "timeTilSpawnBall": 5000
+    },
+    "scorePerJuggle": 1,
+    "scoreCooldownPerBall": 500,
+    "minimumYForGameOver": 900,
+    "worldBounds": {
+        "offset": {
+            "x": 0.04,
+            "y": -0.5
+        },
+        "widthAdjustment": 0.92,
+        "heightAdjustment": 2
+    }
+}

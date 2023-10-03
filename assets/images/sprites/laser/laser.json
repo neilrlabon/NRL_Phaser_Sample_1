@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "laser.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 1408
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "laser000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 128,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 256,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 384,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 512,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 640,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 768,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 896,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 1024,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 1152,
+						"w": 512,
+						"h": 128
+					}
+				},
+				{
+					"filename": "laser010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 128
+					},
+					"frame": {
+						"x": 0,
+						"y": 1280,
+						"w": 512,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:08c35d364efad65fe3893b1f1a530b9a:704074663e2e2a6544e2214d3bf0bfee:7174e89d1b4d5b4946134c60b542fafa$"
+	}
+}

@@ -2,57 +2,43 @@
 	"items": {
 		"title_txtGameName": {
 			"text": "Main App",
-			"font": "font_lato_reg",
-			"size": 24,
-			"color": "0xFFFFFF",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0x000000",
 			"align": 1
 		},
 		"title_btnPlay": {
 			"text": "Go To Game",
-			"font": "font_lato_reg",
-			"size": 32,
+			"font": "font_nunito_72",
+			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"game_txtTitle": {
 			"text": "Game Scene",
-			"font": "font_lato_reg",
+			"font": "font_nunito_72",
 			"size": 72,
 			"color": "0x000000",
 			"align": 1
 		},
 		"game_btnContinue": {
 			"text": "Show Post Game",
-			"font": "font_lato_reg",
+			"font": "font_nunito_72",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"postGame_txtTitle": {
 			"text": "Post Game Scene",
-			"font": "font_lato_reg",
+			"font": "font_nunito_72",
 			"size": 72,
 			"color": "0x000000",
 			"align": 1
 		},
 		"postGame_btnContinue": {
 			"text": "Back to Title",
-			"font": "font_lato_reg",
+			"font": "font_nunito_72",
 			"size": 36,
-			"color": "0xFFFFFF",
-			"align": 1
-		},
-		"retry_btnPlay": {
-			"text": "Retry",
-			"font": "font_lato_reg",
-			"size": 32,
-			"color": "0xFFFFFF",
-			"align": 1
-		},
-		"exit_btnPlay": {
-			"text": "Exit",
-			"font": "font_lato_reg",
-			"size": 32,
 			"color": "0xFFFFFF",
 			"align": 1
 		}
